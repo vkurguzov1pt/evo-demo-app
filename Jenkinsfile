@@ -1,4 +1,4 @@
 // Jenkinsfile
-@Library('evo-demo-lib') _
+@Library('evo-demo-lib'@master) _
 
 StdPipeline()
